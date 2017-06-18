@@ -1,6 +1,6 @@
 # Fast Food Ernährungshelfer
 
-Look for your favourite Fast Food chain and get information about products filtered by calorie content and by weather the product is vegetarian or vegan.
+Look for your favourite Fast Food chain and get information about products filtered by calorie content and by whether the product is vegetarian or vegan.
 
 ## Available Scripts
 
