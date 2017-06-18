@@ -1,6 +1,6 @@
 # Fast Food Ernährungshelfer
 
-Look for your favourite Fast Food chain and get information about products filtered by calorie content and by whether the product is vegetarian or vegan. You can play around with it [here](https://fastfood-diet.herokuapp.com/)
+Look for your favourite Fast Food chain and get information about products filtered by calorie content and by whether the product is vegetarian or vegan. You can play around with it [here](https://fastfood-diet.herokuapp.com/).
 
 ## Available Scripts
 
