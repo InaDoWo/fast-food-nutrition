@@ -3,15 +3,15 @@ import PropTypes from 'prop-types'
 import {Grid, Row, Col, Well, Button} from 'react-bootstrap'
 import '../App.css';
 
-const ProductList = ({clickBack, categories, selectedVegetarian, selectedVegan, selectedKcal}) => (
+const ProductList = ({selectedProducer, clickBack, categories, selectedVegetarian, selectedVegan, selectedKcal}) => (
     <div className="ProductList">
         <Grid>
           <Row className="Producer-row">
-            <Well className="Producer-name-product">
+            <div className="Producer-name-product">
               <div className="Producer-block">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/143px-McDonald%27s_Golden_Arches.svg.png" alt="McDonalds"/>
-              <h3 className="Producer-name">McDonald&apos;s</h3>
-              </div></Well>
+              <img src={selectedProducer === "mcdonalds" ? "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/143px-McDonald%27s_Golden_Arches.svg.png" : "https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Logo_Burger_King.svg/200px-Logo_Burger_King.svg.png"} alt="McDonalds"/>
+              <h3 className="Producer-name">{selectedProducer === "mcdonalds" ? "McDonald's" : "Burger King"}</h3>
+              </div></div>
           </Row>
             <Row className="Back-button">
                 <Button onClick={e => clickBack(e)} bsSize="small">Zur&uuml;ck zur &Uuml;bersicht</Button>

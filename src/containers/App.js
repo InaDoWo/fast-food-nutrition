@@ -67,7 +67,7 @@ class App extends Component {
             <div className="App">
                 <div className="App-header">
                     <Grid>
-                        <Row>
+                        <Row className="Text-image-block">
                             <img src="https://image.flaticon.com/sprites/new_packs/146089-food-collection.png" className="App-logo" alt="logo"/>
                             <h1>Fast Food Ern&auml;hrungshelfer</h1>
                         </Row>
@@ -78,7 +78,7 @@ class App extends Component {
                 <div className="Space"></div>
                 {!producerSelected
                     ? <ProducerList onProducer={this.setProducer}/>
-                    : <ProductList categories={categories} selectedVegan={selectedVegan} selectedVegetarian={selectedVegetarian} selectedKcal={selectedKcal} clickBack={this.clickBack}/>}
+                  : <ProductList selectedProducer={selectedProducer} categories={categories} selectedVegan={selectedVegan} selectedVegetarian={selectedVegetarian} selectedKcal={selectedKcal} clickBack={this.clickBack}/>}
             </div>
         );
     }

@@ -1,0 +1,618 @@
+[{
+    "products": {
+        "categories": [{
+            "categoryName": "Aktion",
+            "id": 0,
+            "products": [{
+                "name": "7892574",
+                "title": "Grilled Dog Classic",
+                "calories": "358.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/70000/75279/thumb__websiteProductPreviewImage/bk16-1098-grilleddogclassic-v1.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892572",
+                "title": "Grilled Dog Chili Cheese",
+                "calories": "408.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/70000/75277/thumb__websiteProductPreviewImage/bk16-1098-grilleddogchilicheese-v1.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892573",
+                "title": "Grilled Dog Crispy",
+                "calories": "678.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/70000/75278/thumb__websiteProductPreviewImage/bk16-1098-grilleddogcrispy-v1.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892568",
+                "title": "Honey BBQ Premium Chicken TENDERCRISP®",
+                "calories": "546.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/89920/thumb__websiteProductPreviewImage/honeybbqpremiumtendercrisp.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892569",
+                "title": "Honey BBQ Beef",
+                "calories": "566.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/89919/thumb__websiteProductPreviewImage/honeybbqbeef.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892570",
+                "title": "Cheese and Salami Bites",
+                "calories": "240.1",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/89918/thumb__websiteProductPreviewImage/cheesesalamibites.png",
+                "vegan": false,
+                "vegetarian": false
+            }]
+        }, {
+            "categoryName": "Beef",
+            "id": 1,
+            "products": [{
+                "name": "7892574",
+                "title": "Grilled Dog Classic",
+                "calories": "358.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/70000/75279/thumb__websiteProductPreviewImage/bk16-1098-grilleddogclassic-v1.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892572",
+                "title": "Grilled Dog Chili Cheese",
+                "calories": "408.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/70000/75277/thumb__websiteProductPreviewImage/bk16-1098-grilleddogchilicheese-v1.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892573",
+                "title": "Grilled Dog Crispy",
+                "calories": "678.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/70000/75278/thumb__websiteProductPreviewImage/bk16-1098-grilleddogcrispy-v1.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "7892569",
+                "title": "Honey BBQ Beef",
+                "calories": "566.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/89919/thumb__websiteProductPreviewImage/honeybbqbeef.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "756",
+                "title": "Big King",
+                "calories": "507.6",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8986/thumb__websiteProductPreviewImage/02_bb_bigkingnombun_140512.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "762",
+                "title": "Big King XXL",
+                "calories": "949.7",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8992/thumb__websiteProductPreviewImage/02_bb_bigkingxxl_140515_setup.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "771",
+                "title": "Double Steakhouse",
+                "calories": "1.043.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8993/thumb__websiteProductPreviewImage/02_bb_doublesteakhouse.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "764",
+                "title": "Cheeseburger",
+                "calories": "301.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8981/thumb__websiteProductPreviewImage/02_bb_cheeseburger.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "765",
+                "title": "Double Cheeseburger",
+                "calories": "428.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8984/thumb__websiteProductPreviewImage/02_bb_doublecheeseburger.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "766",
+                "title": "Bacon Cheeseburger",
+                "calories": "340.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8980/thumb__websiteProductPreviewImage/02_bb_baconcheeseburger.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "767",
+                "title": "Chili Cheese Burger",
+                "calories": "392.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8983/thumb__websiteProductPreviewImage/02_bb_chilicheesebr_140512.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "776",
+                "title": "Double Chili Cheese Burger",
+                "calories": "518.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8987/thumb__websiteProductPreviewImage/02_bb_doubchilicheese.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "763",
+                "title": "Hamburger",
+                "calories": "259.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8988/thumb__websiteProductPreviewImage/02_bb_hamburger_140512.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "759",
+                "title": "Whopper®",
+                "calories": "627.5",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8985/thumb__websiteProductPreviewImage/01_bb_whopper_140514.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "760",
+                "title": "Double WHOPPER®",
+                "calories": "848.5",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8994/thumb__websiteProductPreviewImage/02_bb_doublewhooper.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "761",
+                "title": "Whopper jr.®",
+                "calories": "328.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8991/thumb__websiteProductPreviewImage/02_bb_whopperjr.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "742",
+                "title": "X-Tra Long Chili Cheese",
+                "calories": "745.7",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8995/thumb__websiteProductPreviewImage/02_bb_longchilicheese_140523.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "1530005",
+                "title": "Long Texas BBQ",
+                "calories": "715.6",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9331/thumb__websiteProductPreviewImage/02_cb_longrodeo.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "5888311",
+                "title": "LONG Cheeseburger",
+                "calories": "623.7",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/44783/thumb__websiteProductPreviewImage/02_bb_longcheeseburger.png",
+                "vegan": false,
+                "vegetarian": false
+            }]
+        }, {
+            "categoryName": "Chicken",
+            "id": 2,
+            "products": [{
+                "name": "7892568",
+                "title": "Honey BBQ Premium Chicken TENDERCRISP®",
+                "calories": "546.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/89920/thumb__websiteProductPreviewImage/honeybbqpremiumtendercrisp.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "1957064",
+                "title": "Chicken Burger",
+                "calories": "390.5",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/10000/15585/thumb__websiteProductPreviewImage/03_cb_kingchickenbr_140516.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "778",
+                "title": "Chicken Nugget Burger",
+                "calories": "372.9",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9004/thumb__websiteProductPreviewImage/02_cb_chickennuggetburger_v2.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "775",
+                "title": "Crispy Chicken",
+                "calories": "504.9",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9005/thumb__websiteProductPreviewImage/02_cb_crchicken_140516.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "774",
+                "title": "Long Chicken®",
+                "calories": "586.5",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9006/thumb__websiteProductPreviewImage/02_cb_chickenroyal.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "3509138",
+                "title": "KING Nuggets",
+                "calories": "267.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9031/thumb__websiteProductPreviewImage/03_sn_kingnuggets_6p_140520.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "793",
+                "title": "KING Wings",
+                "calories": "381.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9012/thumb__websiteProductPreviewImage/02_sn_kingwings_6p_140521.png",
+                "vegan": false,
+                "vegetarian": false
+            }]
+        }, {
+            "categoryName": "Veggie",
+            "id": 3,
+            "products": [{
+                "name": "777",
+                "title": "Country Burger",
+                "calories": "535.7",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9378/thumb__websiteProductPreviewImage/vb_veggie_king.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "6878613",
+                "title": "Chili Cheese Fries",
+                "calories": "607.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/50000/54197/thumb__websiteProductPreviewImage/04_sn_loaded_fries_01_ch_1.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "790",
+                "title": "Chili Cheese Nuggets",
+                "calories": "366.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9011/thumb__websiteProductPreviewImage/02_sn_chilicheesenuggets_6p_140520.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "792",
+                "title": "KING Pommes",
+                "calories": "306.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9032/thumb__websiteProductPreviewImage/04_sn_shoestringfries_large_140519.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "794",
+                "title": "Onion Rings",
+                "calories": "234.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9013/thumb__websiteProductPreviewImage/02_sn_onionrings_8p.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "828",
+                "title": "Delight Salad",
+                "calories": "43.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/30000/31419/thumb__websiteProductPreviewImage/02_sal_saladdelight_var2.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "6216427",
+                "title": "KING Shake OREO® Classic",
+                "calories": "575.1",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/86229/thumb__websiteProductPreviewImage/02_sw_oreoshake_2.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "7892062",
+                "title": "KING Shake OREO® Schoko",
+                "calories": "498.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/86429/thumb__websiteProductPreviewImage/02_sw_oreoshake_choc_2.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "7892063",
+                "title": "KING Shake KitKat®",
+                "calories": "584.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/86431/thumb__websiteProductPreviewImage/02_sw_kitkatshake_2_neu.png",
+                "vegan": false,
+                "vegetarian": true
+            }]
+        }, {
+            "categoryName": "King-Snacks",
+            "id": 4,
+            "products": [{
+                "name": "7892570",
+                "title": "Cheese and Salami Bites",
+                "calories": "240.1",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/89918/thumb__websiteProductPreviewImage/cheesesalamibites.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "3509138",
+                "title": "KING Nuggets",
+                "calories": "267.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9031/thumb__websiteProductPreviewImage/03_sn_kingnuggets_6p_140520.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "793",
+                "title": "KING Wings",
+                "calories": "381.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9012/thumb__websiteProductPreviewImage/02_sn_kingwings_6p_140521.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "6878613",
+                "title": "Chili Cheese Fries",
+                "calories": "607.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/50000/54197/thumb__websiteProductPreviewImage/04_sn_loaded_fries_01_ch_1.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "790",
+                "title": "Chili Cheese Nuggets",
+                "calories": "366.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9011/thumb__websiteProductPreviewImage/02_sn_chilicheesenuggets_6p_140520.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "792",
+                "title": "KING Pommes",
+                "calories": "306.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9032/thumb__websiteProductPreviewImage/04_sn_shoestringfries_large_140519.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "794",
+                "title": "Onion Rings",
+                "calories": "234.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9013/thumb__websiteProductPreviewImage/02_sn_onionrings_8p.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "828",
+                "title": "Delight Salad",
+                "calories": "43.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/30000/31419/thumb__websiteProductPreviewImage/02_sal_saladdelight_var2.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "829",
+                "title": "Dips & Saucen",
+                "calories": "35.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9329/thumb__websiteProductPreviewImage/02_sn_sauce_kombination.png",
+                "vegan": false,
+                "vegetarian": false
+            }]
+        }, {
+            "categoryName": "Sweet-Kings",
+            "id": 5,
+            "products": [{
+                "name": "807",
+                "title": "Apfel Pommes",
+                "calories": "28.8",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8998/thumb__websiteProductPreviewImage/02_bf_applepommes_ger.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "809",
+                "title": "Donut",
+                "calories": "319.5",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9020/thumb__websiteProductPreviewImage/02_sw_donutchocolatefilled.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "811",
+                "title": "Hot Brownie",
+                "calories": "434.9",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9025/thumb__websiteProductPreviewImage/02_sw_browniewithcream_150522_setup.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "812",
+                "title": "KING Shake Chocolate",
+                "calories": "364.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9028/thumb__websiteProductPreviewImage/02_sw_kingshakechocolate_v1.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "814",
+                "title": "KING Shake Strawberry",
+                "calories": "330.7",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9026/thumb__websiteProductPreviewImage/02_sw_kingshakestrawberry_v1.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "815",
+                "title": "KING Shake Vanilla",
+                "calories": "235.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9023/thumb__websiteProductPreviewImage/02_sw_kingshakevanilla_v1.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "6216427",
+                "title": "KING Shake OREO® Classic",
+                "calories": "575.1",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/86229/thumb__websiteProductPreviewImage/02_sw_oreoshake_2.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "7892062",
+                "title": "KING Shake OREO® Schoko",
+                "calories": "498.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/86429/thumb__websiteProductPreviewImage/02_sw_oreoshake_choc_2.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "7892063",
+                "title": "KING Shake KitKat®",
+                "calories": "584.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/80000/86431/thumb__websiteProductPreviewImage/02_sw_kitkatshake_2_neu.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "817",
+                "title": "KING Sundae Caramel",
+                "calories": "234.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9033/thumb__websiteProductPreviewImage/04_sw_sundaedulce_140523.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "818",
+                "title": "KING Sundae Chocolate",
+                "calories": "223.3",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9024/thumb__websiteProductPreviewImage/02_sw_ksundaechoc_140523.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "819",
+                "title": "KING Sundae Strawberry",
+                "calories": "223.1",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9034/thumb__websiteProductPreviewImage/04_sw_sundae_strawberry.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "816",
+                "title": "Eiswaffel",
+                "calories": "106.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9018/thumb__websiteProductPreviewImage/02_sw_icecone_aed1.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "821",
+                "title": "Smoothie Strawberry Banana",
+                "calories": "275.4",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9029/thumb__websiteProductPreviewImage/02_sw_smoothiestrawbanana_140710_x_e_j.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "822",
+                "title": "Smoothie Tropical Mango",
+                "calories": "291.9",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9027/thumb__websiteProductPreviewImage/02_sw_smoothiemango.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "824",
+                "title": "KING Fusion KitKat®",
+                "calories": "318.9",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9015/thumb__websiteProductPreviewImage/02_sw_bkfusionskitkat_banderole_logo.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "826",
+                "title": "KING Fusion Oreo®",
+                "calories": "291.7",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9017/thumb__websiteProductPreviewImage/02_sw_bkfusionoreo_banderole_logo.png",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "827",
+                "title": "KING Fusion Strawberry Crunch",
+                "calories": "317.7",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9016/thumb__websiteProductPreviewImage/02_sw_bkfusionstrawcrunch_banderole_logo.png",
+                "vegan": false,
+                "vegetarian": true
+            }]
+        }, {
+            "categoryName": "Frühstück",
+            "id": 6,
+            "products": [{
+                "name": "799",
+                "title": "BK® Toastie",
+                "calories": "356.9",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/8999/thumb__websiteProductPreviewImage/02_bf_bktoastie.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "800",
+                "title": "Breakfast Burger",
+                "calories": "808.2",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9002/thumb__websiteProductPreviewImage/02_brb_breakfastburger.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "801",
+                "title": "Eggs & Bacon",
+                "calories": "299.9",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9000/thumb__websiteProductPreviewImage/02_bf_eggsbacon.png",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "802",
+                "title": "Mini Pancakes",
+                "calories": "268.5",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9001/thumb__websiteProductPreviewImage/02_bf_6minipancakes.png",
+                "vegan": false,
+                "vegetarian": false
+            }]
+        }, {
+            "categoryName": "Dinks",
+            "id": 7,
+            "products": [{
+                "name": "795",
+                "title": "Fruchttiger Apfel-Erdbeere",
+                "calories": "75.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/1679/thumb__websiteProductPreviewImage/05_dr_fruchttiger_140429.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "5696848",
+                "title": "Fruchttiger Multifrucht ",
+                "calories": "75.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/43909/thumb__websiteProductPreviewImage/drinks_bk_website_01_fruchtigermulti.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "796",
+                "title": "Heisse Getränke",
+                "calories": "0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9330/thumb__websiteProductPreviewImage/02_dr_hotdrinks_komposition.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "797",
+                "title": "Hohes C Milde Orange",
+                "calories": "86.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/1680/thumb__websiteProductPreviewImage/05_dr_hohesc_140429.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "798",
+                "title": "Softdrinks",
+                "calories": "168.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/0/9035/thumb__websiteProductPreviewImage/cd_cocacola_official-de-v2_72dpi.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "5696789",
+                "title": "Coca-Cola (BK Lieferservice)",
+                "calories": "210.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/43905/thumb__websiteProductPreviewImage/drinks_bk_website_01_cola.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "5696799",
+                "title": "Coca-Cola zero (BK Lieferservice)",
+                "calories": "1.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/43906/thumb__websiteProductPreviewImage/drinks_bk_website_01_colazero.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "5696795",
+                "title": "Fanta (BK Lieferservice)",
+                "calories": "190.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/43907/thumb__websiteProductPreviewImage/drinks_bk_website_01_fanta.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "5696809",
+                "title": "Sprite (BK Lieferservice)",
+                "calories": "185.0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/43910/thumb__websiteProductPreviewImage/drinks_bk_website_01_sprite.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "5696815",
+                "title": "Vio (BK Lieferservice)",
+                "calories": "0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/43912/thumb__websiteProductPreviewImage/drinks_bk_website_01_vio.png",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "5696818",
+                "title": "Vio blue (BK Lieferservice)",
+                "calories": "0",
+                "thumbnail": "https://www.burgerking.de/website/var/tmp/image-thumbnails/40000/43911/thumb__websiteProductPreviewImage/drinks_bk_website_01_vioblue.png",
+                "vegan": true,
+                "vegetarian": true
+            }]
+        }]
+    }
+}]

@@ -8,6 +8,7 @@
     background-color: #3e4247;
     padding: 20px;
     color: white;
+    height: 230px;
 }
 .App-header h1 {
     display: inline-block;
@@ -55,29 +56,47 @@
     padding-right: 20px;
 }
 .Producer-row {
-  padding-left: 31px;
-  padding-right: 31px;
+    padding-left: 31px;
+    padding-right: 31px;
+}
+.Product-card h4 {
+    min-height: 38px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
+  .Text-image-block {
+      padding-top: 30px;
+  }
     .Diet-info {
         min-height: 20px;
     }
     .Producer-row {
-      padding-right: 0px;
+        padding-right: 0px;
     }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
+    .App-header {
+        height: 200px;
+    }
+    .Text-image-block {
+        padding-top: 30px;
+    }
     .Product-card h4 {
-        min-height: 38px;
+        min-height: 57px;
     }
     .Diet-info {
         min-height: 40px;
     }
     .Producer-row {
-      padding-right: 0px;
+        padding-right: 0px;
     }
 }
 @media (min-width: 1200px) {
+    .App-header {
+        height: 200px;
+    }
+    .Text-image-block {
+        padding-top: 30px;
+    }
     .Product-card h4 {
         min-height: 38px;
     }
@@ -85,7 +104,7 @@
         min-height: 20px;
     }
     .Producer-row {
-      padding-right: 0px;
+        padding-right: 0px;
     }
 }
 .Back-button {
