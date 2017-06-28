@@ -6,6 +6,9 @@ import '../App.css';
 const ProductList = ({selectedProducer, clickBack, categories, selectedVegetarian, selectedVegan, selectedKcal}) => (
     <div className="ProductList">
         <Grid>
+          <Row className="Back-button">
+              <Button onClick={e => clickBack(e)}>Zur&uuml;ck zur &Uuml;bersicht</Button>
+          </Row>
           <Row className="Producer-row">
             <div className="Producer-name-product">
               <div className="Producer-block">
@@ -13,9 +16,6 @@ const ProductList = ({selectedProducer, clickBack, categories, selectedVegetaria
               <h3 className="Producer-name">{selectedProducer === "mcdonalds" ? "McDonald's" : "Burger King"}</h3>
               </div></div>
           </Row>
-            <Row className="Back-button">
-                <Button onClick={e => clickBack(e)} bsSize="small">Zur&uuml;ck zur &Uuml;bersicht</Button>
-            </Row>
             {categories.map((category, i) => <Grid key={i}>
                 <Row className="Categories">
                     <h3>{category.categoryName + ":"}
