@@ -86,6 +86,9 @@
   #bg-justified-dropdown {
     font-size: 10px;
   }
+  .Diet-filter {
+      padding-left: 15px;
+  }
 }
 @media (min-width: 594px) and (max-width: 991px) {
     .Diet-info {
