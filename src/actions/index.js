@@ -1,5 +1,6 @@
 import mcdonalds from '../mcdonalds.json'
 import burger_king from '../burger_king'
+import subway from '../subway'
 export const SELECT_VEGETARIAN = 'SELECT_VEGETARIAN'
 export const SELECT_VEGAN = 'SELECT_VEGAN'
 export const SHOW_PRODUCER = 'SHOW_PRODUCER'
@@ -42,7 +43,9 @@ export const requestProducts = producer => ({
 export const receiveProducts = (producer, json) => ({
   type: RECEIVE_PRODUCTS,
   producer,
-  categories: json[0].products.categories
+  categories: json[0].products.categories,
+  name: json[0].name,
+  thumbnail: json[0].thumbnail
 })
 
 export const fetchProducts = producer => dispatch => {
@@ -52,6 +55,9 @@ export const fetchProducts = producer => dispatch => {
   }
   else if (producer === 'burgerking') {
     return dispatch(receiveProducts(producer, burger_king))
+  }
+  else if (producer === 'subway') {
+    return dispatch(receiveProducts(producer, subway))
   } else {
     return ""
   }

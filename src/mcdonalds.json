@@ -1,45 +1,59 @@
 [{
+    "name": "McDonald's",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/143px-McDonald%27s_Golden_Arches.svg.png",
     "products": {
-        "producer": "mcdonalds",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/143px-McDonald%27s_Golden_Arches.svg.png",
         "categories": [{
             "categoryName": "Aktionsprodukte",
             "id": 0,
             "products": [{
-                "name": "double_new_york_beef_bacon",
-                "title": "Double New York Beef Bacon",
-                "calories": "747",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12706_double_new_york_beef_bacon_product_thumbnail.png/d430a814-3eec-4c80-b12f-d131081463db?version=3.0&t=1496303297000'",
+                "name": "big_double_western_royal",
+                "title": "Big Double Western Royal",
+                "calories": "912",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13002_big_double_western_royal_product_thumbnail.png/da576380-8537-4985-8153-eacc671b54fe?version=2.0&t=1499073136000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "hamburger_royal_mit_kase",
+                "title": "Hamburger Royal Käse",
+                "calories": "521",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/20_hamburger_royal_mit_kase_product_thumbnail.png/7e3c6191-5324-4029-b492-3e6eb54fbc87?version=16.0&t=1499064049000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "hamburger_royal_kaese_bacon",
+                "title": "Hamburger Royal Käse Bacon",
+                "calories": "562",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13003_hamburger_royal_kaese_bacon_product_thumbnail.png/07c9894b-0a7b-4ff1-9f6f-3e761e3bd448?version=1.0&t=1499064121000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "hamburger_royal_ts",
+                "title": "Hamburger Royal TS®",
+                "calories": "518",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/22_hamburger_royal_ts_product_thumbnail.png/2f0d7af9-9dfc-4768-b4f5-6a4de79adbdd?version=12.0&t=1499073123000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
                 "name": "big_tasty_bacon",
                 "title": "Big Tasty® Bacon",
                 "calories": "885",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10003_big_tasty_bacon_product_thumbnail.png/0e4a429e-2c55-4a7c-bf69-4a2276fc1ac3?version=14.0&t=1494850063000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10003_big_tasty_bacon_product_thumbnail.png/0e4a429e-2c55-4a7c-bf69-4a2276fc1ac3?version=16.0&t=1499073148000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
-                "name": "5_chili_cheese_snackers",
-                "title": "5 Chili Cheese Snackers",
-                "calories": "273",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12707_5_chili_cheese_snackers_product_thumbnail.png/37be5e7d-3bdf-4c3b-b7a0-48736fb732a5?version=2.0&t=1494849138000'",
-                "vegan": false,
-                "vegetarian": true
-            }, {
-                "name": "8_chili_cheese_snackers",
-                "title": "8 Chili Cheese Snackers",
-                "calories": "436",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12708_8_chili_cheese_snackers_product_thumbnail.png/84325022-6060-4153-b659-9b1f9a4ffd88?version=1.0&t=1494830592000'",
-                "vegan": false,
-                "vegetarian": true
-            }, {
-                "name": "curly_fries",
-                "title": "Curly Fries",
-                "calories": "374",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12709_curly_fries_product_thumbnail.png/ca30194d-b1ac-4cc1-9d11-cb2ac366710a?version=3.0&t=1494848709000'",
+                "name": "5_shrimps_mit_mango_chili_dip",
+                "title": "5 Shrimps mit Mango-Chili Dip",
+                "calories": "250",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13004_5_shrimps_mit_mango_chili_dip_product_thumbnail.png/5356dcd0-a970-4a5f-8c0e-1fad6af3da30?version=1.0&t=1499064273000'",
                 "vegan": false,
                 "vegetarian": false
+            }, {
+                "name": "riffelkartoffeln",
+                "title": "Riffelkartoffeln",
+                "calories": "405",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13005_riffelkartoffeln_product_thumbnail.png/ec6f28ce-20e5-4205-a99f-02caeb61ef87?version=1.0&t=1499064304000'",
+                "vegan": true,
+                "vegetarian": true
             }, {
                 "name": "mcwrap_chicken_greek",
                 "title": "McWrap® Chicken Greek",
@@ -83,40 +97,33 @@
                 "vegan": false,
                 "vegetarian": false
             }, {
-                "name": "mcflurry_pickup_schoko",
-                "title": "McFlurry® PiCK UP! Schoko",
-                "calories": "475",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12215_mcflurry_pickup_schoko_product_thumbnail.png/51838b7a-643e-4487-82ec-483f3a01192b?version=1.0&t=1490848329000'",
+                "name": "mcflurry_minions_banana",
+                "title": "McFlurry® Minions Banana",
+                "calories": "373",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13006_mcflurry_minions_banana_product_thumbnail.png/7b51f281-1aff-4606-ac2d-0a47fdb5b457?version=2.0&t=1499067604000'",
                 "vegan": false,
                 "vegetarian": true
             }, {
-                "name": "mcflurry_pickup_karamell",
-                "title": "McFlurry® PiCK UP! Karamell",
-                "calories": "481",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12216_mcflurry_pickup_karamell_product_thumbnail.png/d9dd723d-bf2a-47b9-8b7e-df40ee1d1594?version=1.0&t=1490848350000'",
+                "name": "mcflurry_minions_schoko",
+                "title": "McFlurry® Minions Schoko",
+                "calories": "441",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13007_mcflurry_minions_schoko_product_thumbnail.png/27b8947b-4e30-43df-906b-ab362406b186?version=1.0&t=1499064387000'",
                 "vegan": false,
                 "vegetarian": true
             }, {
-                "name": "mcflurry_pickup_wildberry",
-                "title": "McFlurry® PiCK UP! Wildberry",
-                "calories": "407",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12217_mcflurry_pickup_wildberry_product_thumbnail.png/0a2c5f59-012d-43a5-9bff-4f5d97d686da?version=1.0&t=1490848370000'",
+                "name": "mcflurry_minions_karamell",
+                "title": "McFlurry® Minions Karamell",
+                "calories": "447",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13008_mcflurry_minions_karamell_product_thumbnail.png/7ba26cfc-c7c8-4e9e-9cb7-569673e7e341?version=2.0&t=1499067724000'",
                 "vegan": false,
                 "vegetarian": true
             }, {
-                "name": "milchshake_wildberry",
-                "title": "Milchshake Wildberry",
-                "calories": "453",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12218_milchshake_wildberry_product_thumbnail.png/f55eb888-1eb2-4c34-b77b-93004ce0392c?version=2.0&t=1491900806000'",
+                "name": "milchshake_banana",
+                "title": "Milchshake Banana",
+                "calories": "458",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13009_milchshake_banana_product_thumbnail.png/d04bc797-cf2c-4002-9310-0ca8dd625fe2?version=1.0&t=1499064475000'",
                 "vegan": false,
                 "vegetarian": true
-            }, {
-                "name": "aprikosentasche",
-                "title": "Aprikosentasche",
-                "calories": "261",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12219_aprikosentasche_product_thumbnail.png/9e8164a4-0cec-4ce3-a1a5-f228d21e504d?version=3.0&t=1490882001000'",
-                "vegan": true,
-                "vegetarian": false
             }, {
                 "name": "cool_cherry",
                 "title": "Cool Cherry",
@@ -147,42 +154,42 @@
                 "name": "signature_bacon_egg_beef",
                 "title": "Signature Bacon & Egg Beef",
                 "calories": "802",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12704_signature_bacon_egg_beef_product_thumbnail.png/0b4dd5c7-c044-43ba-9e93-3029a405b456?version=8.0&t=1496306829000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12704_signature_bacon_egg_beef_product_thumbnail.png/0b4dd5c7-c044-43ba-9e93-3029a405b456?version=9.0&t=1498816681000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
                 "name": "signature_bbq_beef",
                 "title": "Signature BBQ Beef",
                 "calories": "724",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10807_signature_bbq_beef_product_thumbnail.png/786fd709-d9c4-4686-933b-cfa356260b65?version=12.0&t=1494850293000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10807_signature_bbq_beef_product_thumbnail.png/786fd709-d9c4-4686-933b-cfa356260b65?version=13.0&t=1498816635000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
                 "name": "signature_classic_beef",
                 "title": "Signature Classic Beef",
                 "calories": "694",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10808_signature_classic_beef_product_thumbnail.png/619bb76e-7c99-46d3-96aa-42b05b03a185?version=10.0&t=1494850308000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10808_signature_classic_beef_product_thumbnail.png/619bb76e-7c99-46d3-96aa-42b05b03a185?version=11.0&t=1498816647000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
                 "name": "signature_bacon_egg_chicken",
                 "title": "Signature Bacon & Egg Chicken",
                 "calories": "728",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12705_signature_bacon_egg_chicken_product_thumbnail.png/8c89b82a-5607-4f78-b433-23d42907cf72?version=5.0&t=1496306687000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12705_signature_bacon_egg_chicken_product_thumbnail.png/8c89b82a-5607-4f78-b433-23d42907cf72?version=6.0&t=1498816691000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
                 "name": "signature_bbq_chicken",
                 "title": "Signature BBQ Chicken",
                 "calories": "650",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10810_signature_bbq_chicken_product_thumbnail.png/0aaf9557-9c29-4099-b597-653267b598aa?version=10.0&t=1494850318000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10810_signature_bbq_chicken_product_thumbnail.png/0aaf9557-9c29-4099-b597-653267b598aa?version=11.0&t=1498816660000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
                 "name": "signature_classic_chicken",
                 "title": "Signature Classic Chicken",
                 "calories": "620",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10811_signature_classic_chicken_product_thumbnail.png/9e0cfbe4-e49b-421c-8d6c-4ba154a6a425?version=12.0&t=1494850350000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10811_signature_classic_chicken_product_thumbnail.png/9e0cfbe4-e49b-421c-8d6c-4ba154a6a425?version=13.0&t=1498816670000'",
                 "vegan": false,
                 "vegetarian": false
             }],
@@ -191,73 +198,66 @@
             "categoryName": "Beilagen",
             "id": 0,
             "products": [{
-                "name": "curly_fries",
-                "title": "Curly Fries",
-                "calories": "374",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12709_curly_fries_product_thumbnail.png/ca30194d-b1ac-4cc1-9d11-cb2ac366710a?version=3.0&t=1494848709000'",
-                "vegan": false,
-                "vegetarian": false
+                "name": "riffelkartoffeln",
+                "title": "Riffelkartoffeln",
+                "calories": "405",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13005_riffelkartoffeln_product_thumbnail.png/ec6f28ce-20e5-4205-a99f-02caeb61ef87?version=1.0&t=1499064304000'",
+                "vegan": true,
+                "vegetarian": true
             }, {
                 "name": "pommes_frites_gross",
                 "title": "Pommes Frites groß",
                 "calories": "434",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/28_pommes_frites_gross_product_thumbnail.png/d2ea04be-b644-4f53-bb4f-e7511f80f788?version=11.0&t=1483946947000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/28_pommes_frites_gross_product_thumbnail.png/d2ea04be-b644-4f53-bb4f-e7511f80f788?version=12.0&t=1498816268000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "pommes_frites_mittel",
                 "title": "Pommes Frites mittel",
                 "calories": "330",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/18_pommes_frites_mittel_product_thumbnail.png/752e86e2-265e-4044-bdcc-bbeee75391b2?version=3.0&t=1473771938000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/18_pommes_frites_mittel_product_thumbnail.png/752e86e2-265e-4044-bdcc-bbeee75391b2?version=4.0&t=1498816288000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "pommes_frites_klein",
                 "title": "Pommes Frites klein",
                 "calories": "231",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/5209_pommes_frites_klein_product_thumbnail.png/40f12fca-f931-489b-9f7c-eeb6186ca377?version=3.0&t=1473771863000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/5209_pommes_frites_klein_product_thumbnail.png/40f12fca-f931-489b-9f7c-eeb6186ca377?version=4.0&t=1498816278000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }],
             "categoryid": 21
         }, {
             "categoryName": "Desserts",
             "id": 0,
             "products": [{
-                "name": "mcflurry_pickup_schoko",
-                "title": "McFlurry® PiCK UP! Schoko",
-                "calories": "475",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12215_mcflurry_pickup_schoko_product_thumbnail.png/51838b7a-643e-4487-82ec-483f3a01192b?version=1.0&t=1490848329000'",
+                "name": "mcflurry_minions_banana",
+                "title": "McFlurry® Minions Banana",
+                "calories": "373",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13006_mcflurry_minions_banana_product_thumbnail.png/7b51f281-1aff-4606-ac2d-0a47fdb5b457?version=2.0&t=1499067604000'",
                 "vegan": false,
                 "vegetarian": true
             }, {
-                "name": "mcflurry_pickup_karamell",
-                "title": "McFlurry® PiCK UP! Karamell",
-                "calories": "481",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12216_mcflurry_pickup_karamell_product_thumbnail.png/d9dd723d-bf2a-47b9-8b7e-df40ee1d1594?version=1.0&t=1490848350000'",
+                "name": "mcflurry_minions_schoko",
+                "title": "McFlurry® Minions Schoko",
+                "calories": "441",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13007_mcflurry_minions_schoko_product_thumbnail.png/27b8947b-4e30-43df-906b-ab362406b186?version=1.0&t=1499064387000'",
                 "vegan": false,
                 "vegetarian": true
             }, {
-                "name": "mcflurry_pickup_wildberry",
-                "title": "McFlurry® PiCK UP! Wildberry",
-                "calories": "407",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12217_mcflurry_pickup_wildberry_product_thumbnail.png/0a2c5f59-012d-43a5-9bff-4f5d97d686da?version=1.0&t=1490848370000'",
+                "name": "mcflurry_minions_karamell",
+                "title": "McFlurry® Minions Karamell",
+                "calories": "447",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13008_mcflurry_minions_karamell_product_thumbnail.png/7ba26cfc-c7c8-4e9e-9cb7-569673e7e341?version=2.0&t=1499067724000'",
                 "vegan": false,
                 "vegetarian": true
             }, {
-                "name": "milchshake_wildberry",
-                "title": "Milchshake Wildberry",
-                "calories": "453",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12218_milchshake_wildberry_product_thumbnail.png/f55eb888-1eb2-4c34-b77b-93004ce0392c?version=2.0&t=1491900806000'",
+                "name": "milchshake_banana",
+                "title": "Milchshake Banana",
+                "calories": "458",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13009_milchshake_banana_product_thumbnail.png/d04bc797-cf2c-4002-9310-0ca8dd625fe2?version=1.0&t=1499064475000'",
                 "vegan": false,
                 "vegetarian": true
-            }, {
-                "name": "aprikosentasche",
-                "title": "Aprikosentasche",
-                "calories": "261",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12219_aprikosentasche_product_thumbnail.png/9e8164a4-0cec-4ce3-a1a5-f228d21e504d?version=3.0&t=1490882001000'",
-                "vegan": true,
-                "vegetarian": false
             }, {
                 "name": "mcflurry_schokolinsen",
                 "title": "McFlurry® Schokolinsen",
@@ -306,14 +306,14 @@
                 "calories": "228",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2335_heisse_apfeltasche_product_thumbnail.png/bbc11158-88c4-4207-a48c-401464268030?version=18.0&t=1488373750000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "bio_apfelt_te",
                 "title": "Bio Apfeltüte",
                 "calories": "34",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2704_bio_apfelt_te_product_thumbnail.png/7af0939b-93d6-429a-9051-8e416179b0dc?version=14.0&t=1485333044000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "joghurt_mit_schoko-muesli",
                 "title": "Joghurt mit Schoko-Müsli",
@@ -353,21 +353,21 @@
                 "calories": "176",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/8321_iced_fruit_smoothie_mango_ananas_mccafe_product_thumbnail.png/52220997-066f-448c-ac9e-6e6d210310b5?version=14.0&t=1493984742000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "iced_fruit_smoothie_pfirsich_maracuja_mccafe",
                 "title": "Iced Fruit Smoothie Pfirsich Maracuja",
                 "calories": "169",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12507_iced_fruit_smoothie_pfirsich_maracuja_mccafe_product_thumbnail.png/9428dccc-f692-4f11-8c2a-62e69c0802c1?version=1.0&t=1493984802000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "iced_fruit_smoothie_erdbeer_banane_mccafe",
                 "title": "Iced Fruit Smoothie Erdbeer Banane",
                 "calories": "162",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12506_iced_fruit_smoothie_erdbeer_banane_mccafe_product_thumbnail.png/f2247767-a259-42ec-bfc3-7f3f5d6e7256?version=1.0&t=1493984775000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "coffee_choc",
                 "title": "Iced Frappé Coffee Choc",
@@ -388,59 +388,38 @@
             "categoryName": "Burger & McNuggets",
             "id": 0,
             "products": [{
-                "name": "double_new_york_beef_bacon",
-                "title": "Double New York Beef Bacon",
-                "calories": "747",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12706_double_new_york_beef_bacon_product_thumbnail.png/d430a814-3eec-4c80-b12f-d131081463db?version=3.0&t=1496303297000'",
+                "name": "big_double_western_royal",
+                "title": "Big Double Western Royal",
+                "calories": "912",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13002_big_double_western_royal_product_thumbnail.png/da576380-8537-4985-8153-eacc671b54fe?version=2.0&t=1499073136000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "hamburger_royal_mit_kase",
+                "title": "Hamburger Royal Käse",
+                "calories": "521",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/20_hamburger_royal_mit_kase_product_thumbnail.png/7e3c6191-5324-4029-b492-3e6eb54fbc87?version=16.0&t=1499064049000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "hamburger_royal_kaese_bacon",
+                "title": "Hamburger Royal Käse Bacon",
+                "calories": "562",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/13003_hamburger_royal_kaese_bacon_product_thumbnail.png/07c9894b-0a7b-4ff1-9f6f-3e761e3bd448?version=1.0&t=1499064121000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "hamburger_royal_ts",
+                "title": "Hamburger Royal TS®",
+                "calories": "518",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/22_hamburger_royal_ts_product_thumbnail.png/2f0d7af9-9dfc-4768-b4f5-6a4de79adbdd?version=12.0&t=1499073123000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
                 "name": "big_tasty_bacon",
                 "title": "Big Tasty® Bacon",
                 "calories": "885",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10003_big_tasty_bacon_product_thumbnail.png/0e4a429e-2c55-4a7c-bf69-4a2276fc1ac3?version=14.0&t=1494850063000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "signature_bacon_egg_beef",
-                "title": "Signature Bacon & Egg Beef",
-                "calories": "802",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12704_signature_bacon_egg_beef_product_thumbnail.png/0b4dd5c7-c044-43ba-9e93-3029a405b456?version=8.0&t=1496306829000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "signature_bbq_beef",
-                "title": "Signature BBQ Beef",
-                "calories": "724",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10807_signature_bbq_beef_product_thumbnail.png/786fd709-d9c4-4686-933b-cfa356260b65?version=12.0&t=1494850293000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "signature_classic_beef",
-                "title": "Signature Classic Beef",
-                "calories": "694",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10808_signature_classic_beef_product_thumbnail.png/619bb76e-7c99-46d3-96aa-42b05b03a185?version=10.0&t=1494850308000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "signature_bacon_egg_chicken",
-                "title": "Signature Bacon & Egg Chicken",
-                "calories": "728",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12705_signature_bacon_egg_chicken_product_thumbnail.png/8c89b82a-5607-4f78-b433-23d42907cf72?version=5.0&t=1496306687000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "signature_bbq_chicken",
-                "title": "Signature BBQ Chicken",
-                "calories": "650",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10810_signature_bbq_chicken_product_thumbnail.png/0aaf9557-9c29-4099-b597-653267b598aa?version=10.0&t=1494850318000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "signature_classic_chicken",
-                "title": "Signature Classic Chicken",
-                "calories": "620",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10811_signature_classic_chicken_product_thumbnail.png/9e0cfbe4-e49b-421c-8d6c-4ba154a6a425?version=12.0&t=1494850350000'",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10003_big_tasty_bacon_product_thumbnail.png/0e4a429e-2c55-4a7c-bf69-4a2276fc1ac3?version=16.0&t=1499073148000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
@@ -455,6 +434,48 @@
                 "title": "McDouble® Chili Cheese",
                 "calories": "420",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/11708_mcdouble_chili_cheese_product_thumbnail.png/f9a4add8-bcd5-4cd1-b366-22ada5dce47c?version=3.0&t=1490848888000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "signature_bacon_egg_beef",
+                "title": "Signature Bacon & Egg Beef",
+                "calories": "802",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12704_signature_bacon_egg_beef_product_thumbnail.png/0b4dd5c7-c044-43ba-9e93-3029a405b456?version=9.0&t=1498816681000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "signature_bbq_beef",
+                "title": "Signature BBQ Beef",
+                "calories": "724",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10807_signature_bbq_beef_product_thumbnail.png/786fd709-d9c4-4686-933b-cfa356260b65?version=13.0&t=1498816635000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "signature_classic_beef",
+                "title": "Signature Classic Beef",
+                "calories": "694",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10808_signature_classic_beef_product_thumbnail.png/619bb76e-7c99-46d3-96aa-42b05b03a185?version=11.0&t=1498816647000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "signature_bacon_egg_chicken",
+                "title": "Signature Bacon & Egg Chicken",
+                "calories": "728",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12705_signature_bacon_egg_chicken_product_thumbnail.png/8c89b82a-5607-4f78-b433-23d42907cf72?version=6.0&t=1498816691000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "signature_bbq_chicken",
+                "title": "Signature BBQ Chicken",
+                "calories": "650",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10810_signature_bbq_chicken_product_thumbnail.png/0aaf9557-9c29-4099-b597-653267b598aa?version=11.0&t=1498816660000'",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "signature_classic_chicken",
+                "title": "Signature Classic Chicken",
+                "calories": "620",
+                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10811_signature_classic_chicken_product_thumbnail.png/9e0cfbe4-e49b-421c-8d6c-4ba154a6a425?version=13.0&t=1498816670000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
@@ -511,20 +532,6 @@
                 "title": "Big Mac®",
                 "calories": "503",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/1001_big_mac_product_thumbnail.png/b4756977-7159-4204-b757-e6ab1ae83985?version=26.0&t=1483543540000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "hamburger_royal_mit_kase",
-                "title": "Hamburger Royal Käse",
-                "calories": "521",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/20_hamburger_royal_mit_kase_product_thumbnail.png/7e3c6191-5324-4029-b492-3e6eb54fbc87?version=9.0&t=1490848863000'",
-                "vegan": false,
-                "vegetarian": false
-            }, {
-                "name": "hamburger_royal_ts",
-                "title": "Hamburger Royal TS®",
-                "calories": "518",
-                "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/22_hamburger_royal_ts_product_thumbnail.png/2f0d7af9-9dfc-4768-b4f5-6a4de79adbdd?version=10.0&t=1482496566000'",
                 "vegan": false,
                 "vegetarian": false
             }, {
@@ -627,7 +634,7 @@
                 "calories": "16",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2340_snack_salad_classic_product_thumbnail.png/44829961-6814-4537-8e31-c818353dfa09?version=5.0&t=1483946985000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }],
             "categoryid": 15
         }, {
@@ -737,7 +744,7 @@
                 "calories": "0",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2304_cafe_product_thumbnail.png/e1481b7b-5da9-4374-92f6-7275496989bb?version=33.0&t=1492664464000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "cappuccino",
                 "title": "Cappuccino",
@@ -758,7 +765,7 @@
                 "calories": "0",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10306_tee_product_thumbnail.png/a08e6c2a-c245-47f9-b6a3-c6ec07e279b8?version=4.0&t=1492664716000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "heisses_kakaogetraenk",
                 "title": "Heißes Kakaogetränk",
@@ -779,7 +786,7 @@
                 "calories": "115",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/258_tropicana_mccafe_product_thumbnail.png/e88d0cae-0d52-4898-a3d3-e42f07b0274f?version=14.0&t=1483943638000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }],
             "categoryid": 9
         }, {
@@ -791,35 +798,35 @@
                 "calories": "48",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12510_mcfreezy_mango_ananas_product_thumbnail.png/bd7db9a4-9995-48cb-8d9b-86b710f7b3f8?version=4.0&t=1495102523000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "mcfreezy_pfirsich_maracuja",
                 "title": "McFreezy™ Pfirsich Maracuja",
                 "calories": "45",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12511_mcfreezy_pfirsich_maracuja_product_thumbnail.png/086207e7-44cb-4b21-9719-f6f20e71db39?version=4.0&t=1495102490000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "mcfreezy_erdbeer_banane",
                 "title": "McFreezy™ Erdbeer Banane",
                 "calories": "45",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12601_mcfreezy_erdbeer_banane_product_thumbnail.png/8719be17-3908-480d-8481-cb73066297e4?version=2.0&t=1495102447000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "frucht-quatsch_neu",
                 "title": "Frucht-Quatsch",
                 "calories": "60",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/6401_frucht-quatsch_neu_product_thumbnail.png/4cabaa1a-1238-4ebf-933c-bb3e003c3468?version=4.0&t=1493985213000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "bio_apfelt_te",
                 "title": "Bio Apfeltüte",
                 "calories": "34",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2704_bio_apfelt_te_product_thumbnail.png/7af0939b-93d6-429a-9051-8e416179b0dc?version=14.0&t=1485333044000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }],
             "categoryid": 702
         }, {
@@ -831,63 +838,63 @@
                 "calories": "0",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2319_vio_blue_product_thumbnail.png/0d907a75-e61f-4425-ad8e-9af213304cc2?version=11.0&t=1483947556000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "bonaqa",
                 "title": "Bonaqa",
                 "calories": "0",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/256_bonaqa_product_thumbnail.png/7de36856-ef75-47d7-b886-1fd2d04f5795?version=14.0&t=1483947688000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "coca_cola",
                 "title": "Coca-Cola",
                 "calories": "105",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/38_coca_cola_product_thumbnail.png/5b5b10ef-8aaa-4709-bb20-32069d956613?version=16.0&t=1483947775000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "coca_cola_light",
                 "title": "Coca-Cola Light",
                 "calories": "1",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2334_coca_cola_light_product_thumbnail.png/5a5053cd-45a4-4006-bba6-e40365d555cf?version=19.0&t=1483947910000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "coca_cola_zero",
                 "title": "Coca-Cola Zero",
                 "calories": "1",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/180_coca_cola_zero_product_thumbnail.png/0a7febc7-deba-49cc-9979-8020986c8f86?version=15.0&t=1490849030000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "fanta",
                 "title": "Fanta",
                 "calories": "95",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/40_fanta_product_thumbnail.png/34cf1014-dfcc-4c82-b423-01051b6ab9df?version=13.0&t=1483948075000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "sprite",
                 "title": "Sprite",
                 "calories": "93",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/42_sprite_product_thumbnail.png/62536d78-e856-4b2d-8b12-8edba82d96f5?version=13.0&t=1483948183000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "lift_apfelschorle",
                 "title": "Lift Apfelschorle",
                 "calories": "63",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/48_lift_apfelschorle_product_thumbnail.png/deeaeb14-da70-45d4-95cd-880e6efe9a0a?version=14.0&t=1483948265000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "bio_schorle",
                 "title": "Bio Schorle Apfel",
                 "calories": "58",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/11401_bio_schorle_product_thumbnail.png/a3c2d7d5-8f5d-4047-9f46-d1d94ea34ed7?version=1.0&t=1483940116000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "biomilch",
                 "title": "Bio Milch",
@@ -901,7 +908,7 @@
                 "calories": "0",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/2304_cafe_product_thumbnail.png/e1481b7b-5da9-4374-92f6-7275496989bb?version=33.0&t=1492664464000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "cappuccino",
                 "title": "Cappuccino",
@@ -922,7 +929,7 @@
                 "calories": "0",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/10306_tee_product_thumbnail.png/a08e6c2a-c245-47f9-b6a3-c6ec07e279b8?version=4.0&t=1492664716000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "heisses_kakaogetraenk",
                 "title": "Heißes Kakaogetränk",
@@ -936,7 +943,7 @@
                 "calories": "115",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/258_tropicana_mccafe_product_thumbnail.png/e88d0cae-0d52-4898-a3d3-e42f07b0274f?version=14.0&t=1483943638000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }],
             "categoryid": 24
         }, {
@@ -955,7 +962,7 @@
                 "calories": "49",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12214_limetten_dressing_product_thumbnail.png/5b876b2a-d5e1-4d75-970e-6331a635e87a?version=1.0&t=1490848155000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "caesar_dressing",
                 "title": "Caesar Dressing",
@@ -969,7 +976,7 @@
                 "calories": "26",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/110_ketchup_product_thumbnail.png/1827f8a4-eaff-43b6-b6e7-10a21cfb4287?version=8.0&t=1482494962000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "senf",
                 "title": "Senf Sauce",
@@ -990,42 +997,42 @@
                 "calories": "50",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/124_suesssauer_sauce_product_thumbnail.png/8e99e99c-3c13-4bd1-a334-6cdccb769fbe?version=7.0&t=1482495065000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "curry_sauce",
                 "title": "Curry Sauce",
                 "calories": "50",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/118_curry_sauce_product_thumbnail.png/de7c7dc9-cf46-431c-9635-0093a0cc4cd4?version=4.0&t=1482495091000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "barbecue_sauce",
                 "title": "Barbecue Sauce",
                 "calories": "50",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/114_barbecue_sauce_product_thumbnail.png/f389042b-e8d8-46e5-afec-eb0c3e159948?version=7.0&t=1482495120000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "chili_sauce",
                 "title": "Chili Sauce",
                 "calories": "70",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/116_chili_sauce_product_thumbnail.png/6a27bd82-3f6e-42d5-b54b-b804414a77d8?version=4.0&t=1482495141000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "western_sauce",
                 "title": "Western Sauce",
                 "calories": "15",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/12302_western_sauce_product_thumbnail.png/730586ba-2ea8-486e-bd46-9e128be19613?version=2.0&t=1493191699000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }, {
                 "name": "balsamico_dressing",
                 "title": "Balsamico Dressing",
                 "calories": "25",
                 "thumbnail": "https://www.mcdonalds.de/documents/2729834/2731244/120_balsamico_dressing_product_thumbnail.png/60d0308e-7c7a-433b-8cdd-0cdd389d4667?version=5.0&t=1493191070000'",
                 "vegan": true,
-                "vegetarian": false
+                "vegetarian": true
             }],
             "categoryid": 27
         }]

@@ -59,6 +59,8 @@ const categories = (state = {
             return {
                 ...state,
                 isFetching: false,
+                name: action.name,
+                thumbnail: action.thumbnail,
                 items: action.categories,
             }
         default:
