@@ -1,0 +1,310 @@
+[{
+    "name": "Subway",
+    "thumbnail": "http://www.subway.com/~/media/base_english/images/branding/subway_logo_og.png",
+    "products": {
+        "categories": [{
+            "categoryName": "Subs",
+            "id": 0,
+            "products": [{
+                "name": "MenuCatProductLink_3997",
+                "title": "Italian B.M.T.®",
+                "calories": "392",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-montag-italianBMT-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4000",
+                "title": "Salami",
+                "calories": "310",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-dienstag-salami-DE_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3991",
+                "title": "Turkey",
+                "calories": "275",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-mittwoch-turkey-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4003",
+                "title": "Chicken Fajita",
+                "calories": "285",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-donnerstag-chickenFajita-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3993",
+                "title": "Tuna",
+                "calories": "350",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-freitag-tuna-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3999",
+                "title": "Turkey & Ham",
+                "calories": "289",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-samstag-turkeyHam-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3994",
+                "title": "Chicken Breast",
+                "calories": "275",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-sonntag-roastedChicken-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_5305",
+                "title": "Pulled Pork",
+                "calories": "361",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-sandwich-pulledpork-DE-234x140_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4004",
+                "title": "BBQ Rib",
+                "calories": "501",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-bbq-rib-DE_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3996",
+                "title": "Chicken Teriyaki",
+                "calories": "297",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-sandwich-chicken-teriyaki-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3990",
+                "title": "Ham",
+                "calories": "226",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-sandwich-ham-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3998",
+                "title": "Philly Beef & Cheese",
+                "calories": "330",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-sandwich-steak-cheese-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3995",
+                "title": "Turkey, Ham & Bacon Melt",
+                "calories": "370",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-sandwich-turkey-ham-bacon-melt-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3992",
+                "title": "Veggie Delite®",
+                "calories": "215",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-sandwich-veggie-delite-DE-308x140.jpg",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "MenuCatProductLink_4002",
+                "title": "Veggie Patty",
+                "calories": "375",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-sandwich-veggie-patty-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": true
+            }]
+        }, {
+            "categoryName": "Sub des Tages",
+            "id": 1,
+            "products": [{
+                "name": "MenuCatProductLink_3997",
+                "title": "Italian B.M.T.®",
+                "calories": "392",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-montag-italianBMT-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4000",
+                "title": "Salami",
+                "calories": "310",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-dienstag-salami-DE_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3991",
+                "title": "Turkey",
+                "calories": "275",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-mittwoch-turkey-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4003",
+                "title": "Chicken Fajita",
+                "calories": "285",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-donnerstag-chickenFajita-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3993",
+                "title": "Tuna",
+                "calories": "350",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-freitag-tuna-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3999",
+                "title": "Turkey & Ham",
+                "calories": "289",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-samstag-turkeyHam-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_3994",
+                "title": "Chicken Breast",
+                "calories": "275",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-all-sandwiches-sonntag-roastedChicken-DE-308x140_PT_PT.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }]
+        }, {
+            "categoryName": "Frühstück",
+            "id": 2,
+            "products": [{
+                "name": "MenuCatProductLink_4006",
+                "title": "Bacon, Egg & Cheese",
+                "calories": "391",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-breakfast-bacon-egg-cheese-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4008",
+                "title": "Egg & Cheese",
+                "calories": "351",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-breakfast-egg-cheese-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": true
+            }, {
+                "name": "MenuCatProductLink_4007",
+                "title": "Ham, Egg & Cheese",
+                "calories": "385",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-breakfast-ham-egg-cheese-DE-308x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4037",
+                "title": "Philly Beef & Egg",
+                "calories": "407",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-breakfast-ala-patty-de-308x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }]
+        }, {
+            "categoryName": "Salate",
+            "id": 3,
+            "products": [{
+                "name": "MenuCatProductLink_4020",
+                "title": "Italian B.M.T.®",
+                "calories": "231",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4023",
+                "title": "Salami",
+                "calories": "148",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4014",
+                "title": "Turkey",
+                "calories": "109",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4026",
+                "title": "Chicken Fajita",
+                "calories": "119",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-salad-chicken-fajita-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4016",
+                "title": "Tuna",
+                "calories": "184",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/menu-category-salad-tuna-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4022",
+                "title": "Turkey & Ham",
+                "calories": "123",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4017",
+                "title": "Chicken Breast",
+                "calories": "109",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_5306",
+                "title": "Pulled Pork",
+                "calories": "197",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4027",
+                "title": "BBQ Rib",
+                "calories": "335",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4019",
+                "title": "Chicken Teriyaki",
+                "calories": "131",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4013",
+                "title": "Ham",
+                "calories": "100",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4021",
+                "title": "Philly Beef & Cheese",
+                "calories": "203",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4018",
+                "title": "Turkey, Ham & Bacon Melt",
+                "calories": "164",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": false
+            }, {
+                "name": "MenuCatProductLink_4015",
+                "title": "Veggie Delite®",
+                "calories": "49",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": true,
+                "vegetarian": true
+            }, {
+                "name": "MenuCatProductLink_4025",
+                "title": "Veggie Patty",
+                "calories": "212",
+                "thumbnail": "http://www.subway.com/ns/images/menu/GER/GER/RPLC-salad-veggie-delite-DE-234x140.jpg",
+                "vegan": false,
+                "vegetarian": true
+            }]
+        }]
+    }
+}]

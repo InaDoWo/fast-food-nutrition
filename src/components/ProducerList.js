@@ -34,6 +34,18 @@ const ProducerList = ({onProducer}) => (
                             </Row>
                         </button>
                     </Well>
+                    <Well>
+                        <button className="Producer-link" onClick={e => onProducer('subway')}>
+                            <Row>
+                                <Col className="Producer-icon" xs={5} md={5}>
+                                    <img src="http://www.subway.com/~/media/base_english/images/branding/subway_logo_og.png" alt="Burger King"/>
+                                </Col>
+                                <Col xs={7} md={7}>
+                                    <h3 className="Producer-name">Subway</h3>
+                                </Col>
+                            </Row>
+                        </button>
+                    </Well>
                 </Col>
                 <Col xs={0} md={2}></Col>
             </Row>

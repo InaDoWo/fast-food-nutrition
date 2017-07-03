@@ -61,7 +61,7 @@ class App extends Component {
     }
 
     render() {
-        const {selectedKcal, selectedVegan, selectedVegetarian, categories, selectedProducer} = this.props
+        const {selectedKcal, selectedVegan, selectedVegetarian, categories, name, thumbnail, selectedProducer} = this.props
         const producerSelected = selectedProducer !== ""
         return (
             <div className="App">
@@ -80,7 +80,7 @@ class App extends Component {
                 <div className="Space"></div>
                 {!producerSelected
                     ? <ProducerList onProducer={this.setProducer}/>
-                    : <ProductList selectedProducer={selectedProducer} categories={categories} selectedVegan={selectedVegan} selectedVegetarian={selectedVegetarian} selectedKcal={selectedKcal} clickBack={this.clickBack}/>}
+                  : <ProductList selectedProducer={selectedProducer} categories={categories} name={name} thumbnail= {thumbnail} selectedVegan={selectedVegan} selectedVegetarian={selectedVegetarian} selectedKcal={selectedKcal} clickBack={this.clickBack}/>}
             </div>
         );
     }
@@ -88,7 +88,7 @@ class App extends Component {
 
 const mapStateToProps = state => {
     const {selectedProducer, productsByProducer, selectedVegan, selectedVegetarian, selectedKcal} = state
-    const {isFetching, items: categories} = productsByProducer[selectedProducer] || {
+    const {isFetching, name, thumbnail, items: categories} = productsByProducer[selectedProducer] || {
         isFetching: true,
         items: []
     }
@@ -99,7 +99,9 @@ const mapStateToProps = state => {
         isFetching,
         selectedVegetarian,
         selectedVegan,
-        selectedKcal
+        selectedKcal,
+        name,
+        thumbnail
     }
 }
 

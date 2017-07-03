@@ -1,4 +1,6 @@
 [{
+  "name": "Burger King",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Logo_Burger_King.svg/200px-Logo_Burger_King.svg.png",
     "products": {
         "categories": [{
             "categoryName": "Aktion",

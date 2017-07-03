@@ -35,7 +35,7 @@
     outline: none;
 }
 .Producer-icon {
-  height: 6em;
+    height: 6em;
 }
 .Producer-title {
     margin-right: 145px;
@@ -49,6 +49,9 @@
 }
 .Diet-info {
     text-align: left;
+}
+.Product-card img {
+    width: 100%;
 }
 .Producer-block {
     height: 60px;
@@ -73,22 +76,21 @@
     height: 60px;
 }
 #bg-justified-dropdown {
-  height: 60px;
+    height: 60px;
 }
-
-@media (max-width: 477px){
-  .Filter-button {
-    padding-left: 8px;
-  }
-  .btn-group-justified a {
-    font-size: 10px;
-  }
-  #bg-justified-dropdown {
-    font-size: 10px;
-  }
-  .Diet-filter {
-      padding-left: 15px;
-  }
+@media (max-width: 477px) {
+    .Filter-button {
+        padding-left: 8px;
+    }
+    .btn-group-justified a {
+        font-size: 10px;
+    }
+    #bg-justified-dropdown {
+        font-size: 10px;
+    }
+    .Diet-filter {
+        padding-left: 15px;
+    }
 }
 @media (min-width: 594px) and (max-width: 991px) {
     .Diet-info {

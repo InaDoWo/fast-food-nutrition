@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import {Grid, Row, Col, Well, Button} from 'react-bootstrap'
 import '../App.css';
 
-const ProductList = ({selectedProducer, clickBack, categories, selectedVegetarian, selectedVegan, selectedKcal}) => (
+const ProductList = ({selectedProducer, clickBack, categories, name, thumbnail, selectedVegetarian, selectedVegan, selectedKcal}) => (
     <div className="ProductList">
         <Grid>
           <Row className="Back-button">
@@ -12,8 +12,8 @@ const ProductList = ({selectedProducer, clickBack, categories, selectedVegetaria
           <Row className="Producer-row">
             <div className="Producer-name-product">
               <div className="Producer-block">
-              <img src={selectedProducer === "mcdonalds" ? "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/143px-McDonald%27s_Golden_Arches.svg.png" : "https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Logo_Burger_King.svg/200px-Logo_Burger_King.svg.png"} alt="McDonalds"/>
-              <h3 className="Producer-name">{selectedProducer === "mcdonalds" ? "McDonald's" : "Burger King"}</h3>
+              <img src={thumbnail} alt={name}/>
+              <h3 className="Producer-name">{name}</h3>
               </div></div>
           </Row>
             {categories.map((category, i) => <Grid key={i}>
